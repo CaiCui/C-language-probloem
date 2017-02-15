@@ -1,5 +1,5 @@
 //hdu1720
-//%X��д16������� %xСд16�������  %p����16������
+//%X大写16进制输出 %x小写16进制输出  %p读入16进制数 %p还用于打印指针地址
 #include<cstdio>
 #include<cstdlib>
 #include<cmath>
